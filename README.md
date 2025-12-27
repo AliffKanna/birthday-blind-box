@@ -1,4 +1,4 @@
-# My Webpage Project
+# Birthday-Blind-Box
 
 A simple, responsive webpage built with HTML, CSS, and JavaScript.
 
@@ -11,4 +11,9 @@ A simple, responsive webpage built with HTML, CSS, and JavaScript.
 - Fully responsive layout
 - Interactive elements powered by JavaScript
 - Organized assets (images, icons, etc.) in the `assets/` folder
+
+## Weakness
+- Only look good on mobile viewport
+- No background music
+- User need to reload pages to go back to initial state
 
